@@ -29,8 +29,8 @@ Praticar conceitos fundamentais de programação, como:
 - `ListaTelefonica.java` → gerenciamento dos contatos  
 - `LeitorBuffer.java` / `EscritorBuffer.java` → manipulação de dados  
 
-## ▶️ Como executar
+## Como executar
 
 1. Clone o repositório:
-```bash
+</>bash
 git clone https://github.com/Pbeatr04/Lista-Telefonica.git
