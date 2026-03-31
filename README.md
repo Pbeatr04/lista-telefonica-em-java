@@ -32,5 +32,5 @@ Praticar conceitos fundamentais de programação, como:
 ## Como executar
 
 1. Clone o repositório:
-</>bash
+```bash
 git clone https://github.com/Pbeatr04/Lista-Telefonica.git
